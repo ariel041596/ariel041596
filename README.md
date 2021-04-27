@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ariel041596
+- 👋 Hi, I’m Ariel
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning into deep of MERN Stack
 - 💞️ I’m looking to collaborate on API's
 - 📫 How to reach me just leave me a message
 
