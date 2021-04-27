@@ -18,7 +18,7 @@
 </p>
 
 ## ✨ Github Stars:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel041596&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel041596&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel041596&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel041596&show_icons=true&theme=tokyonight)
  
 
 <!---
