@@ -20,7 +20,7 @@
 </p>
 
 
-### Front End
+## Front End
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJs" height="40" style="vertical-align:top; margin:4px">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="ReactJs" height="40" style="vertical-align:top; margin:8px">
@@ -30,40 +30,32 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootsrap" height="40" style="vertical-align:top; margin:8px">
  </p>
 
-### Back End
+## Back End
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" height="40" style="vertical-align:top; margin:8px">
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
+ </p>
  
-### Database
+## Database
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:8px">
- 
  </p>
 
-### Operating Systems
+## Operating Systems
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:8px">
 
-
 </p>
 
-
-  
-
+## Git 
+<p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:8px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:8px">
-
-
-
-
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
-
- 
-
 </p>
+
 
 ## ✨ Github Stars:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel041596&theme=tokyonight) 
