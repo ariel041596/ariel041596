@@ -7,7 +7,7 @@
 
 ## 📫 How to reach me
 
-# Connect with me here https://www.linkedin.com/in/ariel-espinoza-4044a8200/
+### Connect with me here https://www.linkedin.com/in/ariel-espinoza-4044a8200/
 
 <!---
 ariel041596/ariel041596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
