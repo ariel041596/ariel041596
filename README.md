@@ -18,10 +18,8 @@
 </p>
 
 ## ✨ Github Stars:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel041596&show_icons=true&theme=tokyonight)
-
-## ✨ My Top Languages use:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel041596&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariel041596&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel041596&theme=tokyonight)
+ 
 
 <!---
 ariel041596/ariel041596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
